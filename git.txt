@@ -6,4 +6,5 @@ git commit -m "Incluindo comandos"
 git push 
 
 ----------------------------------------------------------------------------
+só usei o comando abaixo
 git clone //se colocar o endereço e após um espaço e um . não copia o diretório
