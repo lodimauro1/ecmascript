@@ -7,5 +7,5 @@ git push
 
 ----------------------------------------------------------------------------
 só usei o comando abaixo
-Alterando comentários...
+Alterando comentários......
 git clone //se colocar o endereço e após um espaço e um . não copia o diretório
